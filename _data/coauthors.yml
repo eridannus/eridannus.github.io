@@ -1,18 +1,11 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Mendoza":
+  - firstname: ["Sonia", "S.", "Sonia Mendoza"]
+    url: http://delta.cs.cinvestav.mx/~smendoza/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"González-Beltrán":
+  - firstname: ["Beatriz A.", "B. A.", "B.", "Beatriz A. González-Beltrán"]
+    url: http://aisii.azc.uam.mx/investigadores/Adriana/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Meneses-Viveros": 
+  - firstname: ["Amilcar", "A.", "Amilcar Meneses", "Amilcar Meneses-Viveros", "Amilcar Meneses Viveros", "A. M.", "Amilcar Meneses Viveros", "A. M. Viveros"]
+    url: https://computacion.cs.cinvestav.mx/%7Eameneses/
