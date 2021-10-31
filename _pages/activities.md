@@ -1,0 +1,31 @@
+---
+layout: page
+permalink: /activities/
+title: activities
+description: Other academic activities besides publications.
+nav: true
+---
+
+## Program Committee Memberships
+
+I've participated in the technical committee of the following conferences:
+
+- Regional Consortium for Computing Sciences and their Foundations (RCCS+SPIDTEC2) 2018.
+- International Conference on Computer Networks Applications (ICCNA) 2018.
+- International Conference on Computer Networks Applications (ICCNA) 2017.
+
+## Work as a Reviewer
+
+I've reviewed papers for the following (JCR) journals:
+
+- [IEEE Access.](https://ieeeaccess.ieee.org/){:target="_blank"}
+- [IEEE Latin America Transactions.](https://latamt.ieeer9.org/index.php/transactions/index){:target="_blank"}
+
+## Professional Memberships
+
+I'm a student member of the following associations:
+
+- [IEEE.](https://www.ieee.org/){:target="_blank"}
+	- [IEEE Computer Society.](https://www.computer.org/){:target="_blank"}
+- [ACM.](https://www.acm.org/){:target="_blank"}
+	- [AMC SIGCHI.](https://sigchi.org/){:target="_blank"}
