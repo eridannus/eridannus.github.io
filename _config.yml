@@ -51,7 +51,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: eridannus # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: MBk4wHMAAAAJ&hl # your Google Scholar ID
 orcid_id: 0000-0002-2387-8153 # your ORCID ID
@@ -66,6 +65,7 @@ wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/225/3812 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 scopus_url: https://www.scopus.com/authid/detail.uri?authorId=57203842913 # your Scopus profile url
+twitter_username: eridannus # your Twitter handle
 
 rss_icon: false
 
