@@ -21,7 +21,7 @@ Hello! I'm Martín, a PhD student in the [Computer Science Department](https://w
 
 My (great) advisors are professor [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"} and professor [Beatriz González](http://aisii.azc.uam.mx/investigadores/Adriana/){:target="_blank"}.
 
-### education:
+### education
 
 - MSc in Computer Science, [Cinvestav-IPN](https://www.cinvestav.mx/){:target="_blank"}, Mexico City, Mexico.
 - BSc in Computer Engineering, [Instituto Tecnológico de Durango](https://www.itdurango.edu.mx/){:target="_blank"}, Durango, Mexico.

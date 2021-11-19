@@ -10,9 +10,9 @@ nav: true
 
 I've participated in the technical committee of the following conferences:
 
-- Regional Consortium for Computing Sciences and their Foundations (RCCS+SPIDTEC2) 2018.
-- International Conference on Computer Networks Applications (ICCNA) 2018.
-- International Conference on Computer Networks Applications (ICCNA) 2017.
+- [Regional Consortium for Computing Sciences and their Foundations (RCCS+SPIDTEC2) 2018.](https://web.archive.org/web/20210814232905/http://ceur-ws.org/Vol-2304/){:target="_blank"}
+- [International Conference on Computer Networks Applications (ICCNA) 2018.](https://web.archive.org/web/20181209032932/http://iccna.itmexicali.edu.mx/en/){:target="_blank"}
+- [International Conference on Computer Networks Applications (ICCNA) 2017.](https://web.archive.org/web/20170814034844/http://iccna.itmexicali.edu.mx/en/){:target="_blank"}
 
 ## Work as a Reviewer
 

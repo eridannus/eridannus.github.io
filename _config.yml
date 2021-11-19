@@ -65,7 +65,7 @@ wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/225/3812 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 scopus_url: https://www.scopus.com/authid/detail.uri?authorId=57203842913 # your Scopus profile url
-twitter_username: eridannus # your Twitter handle
+#twitter_username: eridannus # your Twitter handle
 
 rss_icon: false
 
