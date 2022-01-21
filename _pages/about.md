@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Martín, a PhD student in Computer Science. My research interests are Human-Computer Interaction, User Interface Design, User Experience, and Social Media. Although they're not areas of my speciality, I'm also interested in digital rights, privacy and security, Philosophy, and Philology.
+Hello! I'm Martín, a PhD in Computer Science. My research interests are Human-Computer Interaction, User Interface Design, User Experience, and Social Media. Although they're not areas of my speciality, I'm also interested in digital rights, privacy and security, Philosophy, and Philology.
 
 My (usual) partner in crime is professor [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"}.
 
