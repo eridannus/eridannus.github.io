@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm Martín, a PhD in Computer Science. My research interests are Human-Computer Interaction, User Interface Design, User Experience, and Social Media. Although they're not areas of my speciality, I'm also interested in digital rights, privacy and security, Philosophy, and Philology.
 
-My (usual) partner in crime is professor [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"}.
+My (usual) partners in crime are professors [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"} and [Beatriz González](http://aisii.azc.uam.mx/investigadores/Adriana/){:target="_blank"}.
 
 ### education
 
