@@ -6,6 +6,10 @@ description: Other academic activities besides publications.
 nav: true
 ---
 
+## Participation in Research Projects
+
+- *Development of an intelligent chatbot to assist the process of teaching/learning in educational and technological subjects*. Project Manager: Dr. Sonia Guadalupe Mendoza Chapa. Participants: Luis Martín Sánchez-Adame, Dr. José Guadalupe Rodríguez García and Dr. Amilcar Meneses Viveros. Role: Participant. Funding Agency: SEP-CINVESTAV (Call 2018). Number of project 120. Amount: $396,505 MXN ($\approx$ \$19,413.50 USD). Period: January 2018 - March 2021.
+
 ## Program Committee Memberships
 
 I've participated in the technical committee of the following conferences:
