@@ -21,6 +21,8 @@ Hello! I'm Martín, a PhD in Computer Science. My research interests are Human-C
 
 My (usual) partners in crime are professors [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"} and [Beatriz González](http://aisii.azc.uam.mx/investigadores/Adriana/){:target="_blank"}.
 
+Visit our science outreach channel on [YouTube](https://www.youtube.com/channel/UC6aBSy58epJNHl6-WL1TZJw/featured){:target="_blank"}!
+
 ### education
 
 - PhD in Computer Science, [Cinvestav-IPN](https://www.cinvestav.mx/){:target="_blank"}, Mexico City, Mexico.
