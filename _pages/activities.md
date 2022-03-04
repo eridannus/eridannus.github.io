@@ -25,6 +25,10 @@ I've reviewed papers for the following (JCR) journals:
 - [IEEE Access.](https://ieeeaccess.ieee.org/){:target="_blank"}
 - [IEEE Latin America Transactions.](https://latamt.ieeer9.org/index.php/transactions/index){:target="_blank"}
 
+## Science Outreach
+
+- [Desarrollan alternativa para procesos de comunicación entre dispositivos inteligentes](https://conexion.cinvestav.mx/Publicaciones/desarrollan-alternativa-para-procesos-de-comunicaci243n-entre-dispositivos-inteligentes){:target="_blank"} [[Archive]](hhttps://web.archive.org/web/20220303040624/https://conexion.cinvestav.mx/Publicaciones/desarrollan-alternativa-para-procesos-de-comunicaci243n-entre-dispositivos-inteligentes){:target="_blank"}
+
 ## Professional Memberships
 
 I'm a student member of the following associations:
