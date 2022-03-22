@@ -27,7 +27,7 @@ I've reviewed papers for the following (JCR) journals:
 
 ## Science Outreach
 
-- [Desarrollan alternativa para procesos de comunicación entre dispositivos inteligentes](https://conexion.cinvestav.mx/Publicaciones/desarrollan-alternativa-para-procesos-de-comunicaci243n-entre-dispositivos-inteligentes){:target="_blank"} [[Archive]](hhttps://web.archive.org/web/20220303040624/https://conexion.cinvestav.mx/Publicaciones/desarrollan-alternativa-para-procesos-de-comunicaci243n-entre-dispositivos-inteligentes){:target="_blank"}
+- [Desarrollan alternativa para procesos de comunicación entre dispositivos inteligentes](https://conexion.cinvestav.mx/Publicaciones/desarrollan-alternativa-para-procesos-de-comunicaci243n-entre-dispositivos-inteligentes){:target="_blank"} [[Archive]](https://web.archive.org/web/20220303040624/https://conexion.cinvestav.mx/Publicaciones/desarrollan-alternativa-para-procesos-de-comunicaci243n-entre-dispositivos-inteligentes){:target="_blank"}
 
 - [Epistemología de la experiencia de usuario anticipada](https://avanceyperspectiva.cinvestav.mx/epistemologia-de-la-experiencia-de-usuario-anticipada/){:target="_blank"} [[Archive]](https://web.archive.org/web/20220218200405/https://avanceyperspectiva.cinvestav.mx/epistemologia-de-la-experiencia-de-usuario-anticipada/){:target="_blank"}
 
