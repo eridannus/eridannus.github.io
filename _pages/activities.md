@@ -27,15 +27,18 @@ I've reviewed papers for the following (JCR) journals:
 
 ## Science Outreach
 
+- [Con realidad aumentada, creativos pueden colaborar fácilmente](https://conexion.cinvestav.mx/COVID-19/Contenido-COVID-19/con-realidad-aumentada-creativos-pueden-colaborar-f225cilmente){:target="_blank"} [[Archive]](https://web.archive.org/web/20220407022800/https://conexion.cinvestav.mx/COVID-19/Contenido-COVID-19/con-realidad-aumentada-creativos-pueden-colaborar-f225cilmente){:target="_blank"}
+
 - [Desarrollan alternativa para procesos de comunicación entre dispositivos inteligentes](https://conexion.cinvestav.mx/Publicaciones/desarrollan-alternativa-para-procesos-de-comunicaci243n-entre-dispositivos-inteligentes){:target="_blank"} [[Archive]](https://web.archive.org/web/20220303040624/https://conexion.cinvestav.mx/Publicaciones/desarrollan-alternativa-para-procesos-de-comunicaci243n-entre-dispositivos-inteligentes){:target="_blank"}
 
 - [Epistemología de la experiencia de usuario anticipada](https://avanceyperspectiva.cinvestav.mx/epistemologia-de-la-experiencia-de-usuario-anticipada/){:target="_blank"} [[Archive]](https://web.archive.org/web/20220218200405/https://avanceyperspectiva.cinvestav.mx/epistemologia-de-la-experiencia-de-usuario-anticipada/){:target="_blank"}
 
 ## Professional Memberships
 
-I'm a student member of the following associations:
+I'm a graduate student member of the following associations:
 
 - [IEEE.](https://www.ieee.org/){:target="_blank"}
 	- [IEEE Computer Society.](https://www.computer.org/){:target="_blank"}
+	- [IEEE Consumer Technology Society.](https://ctsoc.ieee.org/){:target="_blank"}
 - [ACM.](https://www.acm.org/){:target="_blank"}
 	- [AMC SIGCHI.](https://sigchi.org/){:target="_blank"}
