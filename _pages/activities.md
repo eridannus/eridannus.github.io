@@ -25,7 +25,7 @@ I've reviewed papers for the following (JCR) journals:
 
 - [IEEE Access.](https://ieeeaccess.ieee.org/){:target="_blank"}
 - [IEEE Latin America Transactions.](https://latamt.ieeer9.org/index.php/transactions/index){:target="_blank"}
-- [Journal of Intelligent & Fuzzy Systems](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems){:target="_blank"}
+- [Journal of Intelligent & Fuzzy Systems.](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems){:target="_blank"}
 
 ## Science Outreach
 
