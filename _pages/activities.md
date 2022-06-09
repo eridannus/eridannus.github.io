@@ -14,6 +14,7 @@ nav: true
 
 I've participated in the technical committee of the following conferences:
 
+- [IEEE CTSoc International Conference on Games, Entertainment & Media (GEM)](https://gem2022.ieee-gem.space/){:target="_blank"}
 - [Regional Consortium for Computing Sciences and their Foundations (RCCS+SPIDTEC2) 2018.](https://web.archive.org/web/20210814232905/http://ceur-ws.org/Vol-2304/){:target="_blank"}
 - [International Conference on Computer Networks Applications (ICCNA) 2018.](https://web.archive.org/web/20181209032932/http://iccna.itmexicali.edu.mx/en/){:target="_blank"}
 - [International Conference on Computer Networks Applications (ICCNA) 2017.](https://web.archive.org/web/20170814034844/http://iccna.itmexicali.edu.mx/en/){:target="_blank"}
@@ -24,6 +25,7 @@ I've reviewed papers for the following (JCR) journals:
 
 - [IEEE Access.](https://ieeeaccess.ieee.org/){:target="_blank"}
 - [IEEE Latin America Transactions.](https://latamt.ieeer9.org/index.php/transactions/index){:target="_blank"}
+- [Journal of Intelligent & Fuzzy Systems](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems){:target="_blank"}
 
 ## Science Outreach
 
