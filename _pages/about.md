@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Computer Science Department</p>
-    <p>Cinvestav-IPN</p>
-    <p>Mexico City, Mexico</p>
+    <p>UAEMex Valle de Mexico</p>
+    <p>State of Mexico, Mexico</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -18,6 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello! I'm Martín, PhD in Computer Science. My research interests are Human-Computer Interaction, User Interface Design, User Experience, and Social Media. Although they're not areas of my speciality, I'm also interested in digital rights, privacy and security, Philosophy, and Philology.
+
+I'm lecturer at the [University Centre UAEM Valle de México](https://cuvalledemexico.uaemex.mx/){:target="_blank"}.
 
 My (usual) partners in crime are professors [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"} and [Beatriz González](http://aisii.azc.uam.mx/investigadores/Adriana/){:target="_blank"}.
 
