@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>UAEMex Valle de Mexico</p>
+    <p>UAEMex - Valley of Mexico</p>
     <p>State of Mexico, Mexico</p>
 
 news: false  # includes a list of news items
