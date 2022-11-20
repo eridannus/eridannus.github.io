@@ -29,6 +29,8 @@ I've reviewed papers for the following (JCR) journals:
 
 ## Science Outreach
 
+- [Martín Sánchez, reconocido por la Sociedad Mexicana de Inteligencia Artificial](https://unomasuno.com.mx/martin-sanchez-reconocido-por-la-sociedad-mexicana-de-inteligencia-artificial/){:target="_blank"} [[Archive]](https://web.archive.org/web/20221119075919/https://unomasuno.com.mx/martin-sanchez-reconocido-por-la-sociedad-mexicana-de-inteligencia-artificial/){:target="_blank"}
+
 - [El lenguaje de la experiencia de usuario](https://avanceyperspectiva.cinvestav.mx/el-lenguaje-de-la-experiencia-de-usuario/){:target="_blank"} [[Archive]](https://web.archive.org/web/20220710221924/https://avanceyperspectiva.cinvestav.mx/el-lenguaje-de-la-experiencia-de-usuario/){:target="_blank"}
 
 - [COVID-19, el detonador de una pandemia que logró la masa crítica de usuarios de los sistemas colaborativos](https://avanceyperspectiva.cinvestav.mx/covid-19-el-detonador-de-una-pandemia-que-logro-la-masa-critica-de-usuarios-de-los-sistemas-colaborativos/){:target="_blank"} [[Archive]](https://web.archive.org/web/20220504180059/https://avanceyperspectiva.cinvestav.mx/covid-19-el-detonador-de-una-pandemia-que-logro-la-masa-critica-de-usuarios-de-los-sistemas-colaborativos/){:target="_blank"}
