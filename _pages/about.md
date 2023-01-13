@@ -27,6 +27,6 @@ Visit our science outreach channel on [YouTube](https://www.youtube.com/channel/
 ### education
 
 - PhD in Computer Science, [Cinvestav-IPN](https://www.cinvestav.mx/){:target="_blank"}, Mexico City, Mexico.
-  - <span style="color:red">"José Negrete" Award - First Place in the 2022 National Competition of PhD Thesis in Artificial Intelligence organized by [SMIA](http://www.smia.mx/){:target="_blank"}.</span>
+  - <span style="color:red">"José Negrete" Award - First Place in the 2022 National Competition of PhD Thesis in Artificial Intelligence organised by [SMIA](http://www.smia.mx/){:target="_blank"}.</span>
 - MSc in Computer Science, [Cinvestav-IPN](https://www.cinvestav.mx/){:target="_blank"}, Mexico City, Mexico.
 - BSc in Computer Engineering, [Instituto Tecnológico de Durango](https://www.itdurango.edu.mx/){:target="_blank"}, Durango, Mexico.
