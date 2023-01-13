@@ -101,9 +101,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  supervisions:
     output: true
-    permalink: /projects/:path/
+    permalink: /supervisions/:path/
 
 news_limit: 5
 
