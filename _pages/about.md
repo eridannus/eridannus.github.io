@@ -20,6 +20,8 @@ Hello! I'm Martín, PhD in Computer Science. My research interests are Human-Com
 
 Currently, I'm lecturer at the [University Centre UAEM Valle de México](https://cuvalledemexico.uaemex.mx/){:target="_blank"}.
 
+From 2023 to 2026 I will have the level "Candidate" in the National System of Researchers ([SNI](https://conacyt.mx/sistema-nacional-de-investigadores/){:target="_blank"}).
+
 My (usual) partners in crime are professors [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"} and [Beatriz González](http://aisii.azc.uam.mx/investigadores/Adriana/){:target="_blank"}.
 
 Visit our science outreach channel on [YouTube](https://www.youtube.com/channel/UC6aBSy58epJNHl6-WL1TZJw/featured){:target="_blank"}!
