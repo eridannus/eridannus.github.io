@@ -29,6 +29,8 @@ I've reviewed papers for the following (JCR) journals:
 
 ## Science Outreach
 
+- [Retos académicos frente a la inteligencia artificial](https://conexion.cinvestav.mx/Publicaciones/retos-acad233micos-frente-a-la-inteligencia-artificial){:target="_blank"} [[Archive]](https://web.archive.org/web/20230330074945/https://conexion.cinvestav.mx/Publicaciones/retos-acad233micos-frente-a-la-inteligencia-artificial){:target="_blank"}
+
 - [Chatbots: llegaron para quedarse](https://avanceyperspectiva.cinvestav.mx/chatbots-llegaron-para-quedarse/){:target="_blank"} [[Archive]](https://web.archive.org/web/20230202005858/https://avanceyperspectiva.cinvestav.mx/chatbots-llegaron-para-quedarse/){:target="_blank"}
 
 - [Un compañero digital al rescate de los pacientes con diabetes](https://avanceyperspectiva.cinvestav.mx/un-companero-digital-al-rescate-de-los-pacientes-con-diabetes/){:target="_blank"} [[Archive]](https://web.archive.org/web/20230103022743/https://avanceyperspectiva.cinvestav.mx/un-companero-digital-al-rescate-de-los-pacientes-con-diabetes/){:target="_blank"}
