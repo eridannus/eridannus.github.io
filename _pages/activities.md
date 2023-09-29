@@ -52,7 +52,7 @@ I've reviewed papers for the following (JCR) journals:
 
 ## Professional Memberships
 
-I'm a graduate student member of the following associations:
+I'm a professional member of the following associations:
 
 - [IEEE.](https://www.ieee.org/){:target="_blank"}
 	- [IEEE Computer Society.](https://www.computer.org/){:target="_blank"}
