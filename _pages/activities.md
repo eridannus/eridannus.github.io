@@ -14,6 +14,7 @@ nav: true
 
 I've participated in the technical committee of the following conferences:
 
+- [IEEE International Conference on Agents (ICA) 2023.](https://confaid.com/ieee-ica2023/index){:target="_blank"}
 - [IEEE CTSoc International Conference on Games, Entertainment & Media (GEM) 2022.](https://gem2022.ieee-gem.space/){:target="_blank"}
 - [Regional Consortium for Computing Sciences and their Foundations (RCCS+SPIDTEC2) 2018.](https://web.archive.org/web/20210814232905/http://ceur-ws.org/Vol-2304/){:target="_blank"}
 - [International Conference on Computer Networks Applications (ICCNA) 2018.](https://web.archive.org/web/20181209032932/http://iccna.itmexicali.edu.mx/en/){:target="_blank"}
