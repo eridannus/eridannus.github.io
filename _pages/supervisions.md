@@ -6,8 +6,6 @@ description: Students whose theses or final works I have supervised.
 nav: true
 ---
 
-## Current Students
-
 ## Alumni
 
 - Ivan Giovanni Valdespin Garcia. **MSc in Computer Science**. Thesis title: *Multi-Source Speech and Voice Recognition System Oriented to Digital Companions*. Period: January 2020 - December 2023. Main advisor: Prof. [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"}.

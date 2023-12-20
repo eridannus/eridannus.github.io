@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>UAEM Valle de México</p>
+    <p>FES Acatlán - UNAM</p>
     <p>State of Mexico, Mexico</p>
 
 news: false  # includes a list of news items
@@ -18,11 +18,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm Martín, PhD in Computer Science. My research interests are Human-Computer Interaction, User Interface Design, User Experience, and Social Media. Although they're not areas of my speciality, I'm also interested in digital rights, privacy and security, Architecture, Industrial Design (all kinds of Design tbh), Literature (English, French and Russian specially), Philosophy, Philology as well as *Shoah* studies.
 
-Currently, I'm lecturer at the [University Centre UAEM Valle de México](https://cuvalledemexico.uaemex.mx/){:target="_blank"}.
+Currently, I'm lecturer at [FES Acatlán](https://www.acatlan.unam.mx/){:target="_blank"}, [UNAM](https://www.unam.mx/){:target="_blank"}.
 
 From 2023 to 2026 I will have the level "Candidate" in the National System of Researchers ([SNI](https://conacyt.mx/sistema-nacional-de-investigadores/){:target="_blank"}).
 
-My (usual) partners in crime are professors [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"} and [Beatriz González](http://aisii.azc.uam.mx/investigadores/Adriana/){:target="_blank"}.
+My usual partner in crime is professor [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"}.
 
 Visit our science outreach channel on [YouTube](https://www.youtube.com/channel/UC6aBSy58epJNHl6-WL1TZJw/featured){:target="_blank"}!
 
