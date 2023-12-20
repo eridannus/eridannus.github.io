@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm Martín, PhD in Computer Science. My research interests are Human-Computer Interaction, User Interface Design, User Experience, and Social Media. Although they're not areas of my speciality, I'm also interested in digital rights, privacy and security, Architecture, Industrial Design (all kinds of Design tbh), Literature (English, French and Russian specially), Philosophy, Philology as well as *Shoah* studies.
 
-Currently, I'm lecturer at [FES Acatlán](https://www.acatlan.unam.mx/){:target="_blank"}, [UNAM](https://www.unam.mx/){:target="_blank"}.
+Currently, I'm Associate Professor at [FES Acatlán](https://www.acatlan.unam.mx/){:target="_blank"}, [UNAM](https://www.unam.mx/){:target="_blank"}.
 
 From 2023 to 2026 I will have the level "Candidate" in the National System of Researchers ([SNI](https://conacyt.mx/sistema-nacional-de-investigadores/){:target="_blank"}).
 
