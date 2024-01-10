@@ -66,6 +66,7 @@ dblp_url: https://dblp.org/pid/225/3812 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 scopus_url: https://www.scopus.com/authid/detail.uri?authorId=57203842913 # your Scopus profile url
 acm_url: https://dl.acm.org/profile/99659965453 # your ACM profile url
+ieee_url: https://ieeexplore.ieee.org/author/37086515178 # your ACM profile url
 #twitter_username: eridannus # your Twitter handle
 
 rss_icon: false
