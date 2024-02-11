@@ -8,6 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+    <p>Design and Building Division</p>
     <p>FES Acatlán - UNAM</p>
     <p>State of Mexico, Mexico</p>
 
@@ -22,7 +23,7 @@ Currently, I'm Associate Professor at [FES Acatlán](https://www.acatlan.unam.mx
 
 From 2023 to 2026 I will have the level "Candidate" in the National System of Researchers ([SNI](https://conacyt.mx/sistema-nacional-de-investigadores/){:target="_blank"}).
 
-My usual partner in crime is professor [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"}.
+My partner in crime is professor [Sonia Mendoza](http://delta.cs.cinvestav.mx/~smendoza/){:target="_blank"}.
 
 Visit our science outreach channel on [YouTube](https://www.youtube.com/channel/UC6aBSy58epJNHl6-WL1TZJw/featured){:target="_blank"}!
 
