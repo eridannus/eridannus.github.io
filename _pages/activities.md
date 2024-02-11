@@ -55,7 +55,6 @@ I've reviewed papers for the following (JCR) journals:
 I'm a professional member of the following associations:
 
 - [IEEE.](https://www.ieee.org/){:target="_blank"}
-	- [IEEE Computer Society.](https://www.computer.org/){:target="_blank"}
 	- [IEEE Consumer Technology Society.](https://ctsoc.ieee.org/){:target="_blank"}
 - [ACM.](https://www.acm.org/){:target="_blank"}
 	- [AMC SIGCHI.](https://sigchi.org/){:target="_blank"}
