@@ -5,7 +5,7 @@ title: publications
 description: Here are my publications by categories in reversed chronological order.
 journals_years: [2023, 2022, 2021, 2020]
 patents_years: [2023]
-conferences_years: [2023, 2020, 2019, 2018]
+conferences_years: [2024, 2023, 2020, 2019, 2018]
 nav: true
 ---
 
